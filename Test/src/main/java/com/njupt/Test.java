@@ -7,6 +7,7 @@ public class Test {
     }
 
     private static String createStr() {
+        System.out.println("create");
         return "test";
     }
 
